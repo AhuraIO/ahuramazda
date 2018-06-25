@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{74CACB0C-20CD-4B29-B900-499C9633CE75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{566C63CA-CA75-4D02-B2ED-647FE8693998}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{4ADC6C5F-556A-4E93-806F-358371A0EAF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahuramazda.Design", "Ahuramazda.Design\Ahuramazda.Design.csproj", "{CDF04204-47E3-4C5B-9952-8AAEE0AB9F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF04204-47E3-4C5B-9952-8AAEE0AB9F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF04204-47E3-4C5B-9952-8AAEE0AB9F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF04204-47E3-4C5B-9952-8AAEE0AB9F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF04204-47E3-4C5B-9952-8AAEE0AB9F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CDF04204-47E3-4C5B-9952-8AAEE0AB9F72} = {74CACB0C-20CD-4B29-B900-499C9633CE75}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C38F1EB-7DF7-40C4-8611-77FA8A54057F}
+	EndGlobalSection
+EndGlobal
